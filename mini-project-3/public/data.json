@@ -1,0 +1,26 @@
+{
+  "name": "Mini-Project-2",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "academyName": "The Academy of Thinkers",
+  "established": 2026,
+  "isActive": true,
+  "news": [
+    {
+      "id": 1,
+      "title": "Physics Competition",
+      "content": "Competition on Aristotelian physics and modern science commences."
+    },
+    {
+      "id": 2,
+      "title": "Scholasticism Discussion",
+      "content": "Thomistic scholars discuss the ongoing decline of Scholasticism amongst the Catholic Church."
+    },
+    {
+      "id": 3,
+      "title": "World Philosophy Forum",
+      "content": "World philosophy forum delayed until next week."
+    }
+  ]
+}
