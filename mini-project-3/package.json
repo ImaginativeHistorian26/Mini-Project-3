@@ -1,15 +1,17 @@
 {
-  "name": "mini-project-2",
+  "name": "mini-project-3",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
+    "start": "node --watch server.js",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.3",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "react-router-dom": "^7.17.0"
