@@ -1,0 +1,7 @@
+1. I copied my work from Mini-Project-2 and pasted them into my Mini-Project-3 folder.
+
+2. I created the models folder and copied a previous User.js to later edit a schema name and delete one of them. 
+
+3. I created the routes folder and made userRoutes.js to get and create users.
+
+4. I followed the class guide for userController.js and asked the chat box for help to see that I needed (req, res) rather than leave just (data).
