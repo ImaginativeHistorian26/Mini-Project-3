@@ -5,3 +5,5 @@
 3. I created the routes folder and made userRoutes.js to get and create users.
 
 4. I followed the class guide for userController.js and asked the chat box for help to see that I needed (req, res) rather than leave just (data).
+
+5. I updated index.css by including a box for an email address so the email schema can apply to it.
