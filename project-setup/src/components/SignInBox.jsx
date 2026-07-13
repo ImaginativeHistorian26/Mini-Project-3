@@ -14,6 +14,8 @@ function SignInBox() {
 
               <input type="password" placeholder="Password" name="psw" required />
 
+              <input type="email" placeholder="Email" name="eml" required />
+
               <button className="form-btn" type="submit">
                 Sign Up
               </button>
