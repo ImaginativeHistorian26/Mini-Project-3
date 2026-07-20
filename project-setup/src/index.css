@@ -184,6 +184,10 @@ p.fs-4 {
   background-color: #dcf3fd;
 }
 
+#cards-container .card-text {
+  font-size: 1.5rem;
+}
+
 /* about.html */
 
 .about-container {
