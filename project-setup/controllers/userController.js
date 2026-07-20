@@ -38,9 +38,24 @@ const deleteUser = (req, res) => {
     });
 };
 
+const getUserById = (req, res) => {
+  Models.User.findById(req.params.id)
+    .then((data) => {
+      if (!data) {
+        return res.send({ result: 404, error: "Not found" });
+      }
+      res.send({ result: 200, data });
+    })
+    .catch((err) => {
+      console.log(err);
+      res.send({ result: 500, error: err.message });
+    });
+};
+
 module.exports = {
   getUser,
   createUser,
   updateUser,
   deleteUser,
+  getUserById
 };
