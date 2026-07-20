@@ -11,7 +11,7 @@ function AboutBox() {
           </h2>
 
           <div class="about-container-2">
-            <form action="home.html">
+            <form action="/">
               <button class="go-back-btn" type="return">
                 Go Back
               </button>
