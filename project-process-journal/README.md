@@ -13,3 +13,17 @@
 7. I simplified userRoutes.js when putting in updateUser and deleteUser and shortening their router sections.
 
 8. I tested the route requests and made a full success with GET, POST, PUT, and DELETE after multiple tries.
+
+9. I implemented fetch data for philosophy card descriptions and wrote each description in data.json.
+
+10. I added a new JSON data for the philosophy cards to replace to dummy JSON.
+
+11. I included Academy.js in the models folder and made id, title, and content for the news schema and philosophers schema. I also included the academy schema and implemented the information for the news schema and philosophers schema with it along with other information appropriate for the academy schema.
+
+12.I included academyController.js in the controllers folder and the const requests for five sections.
+
+13. I included academyRoutes.js and implemented the routes placed in academyController.js.
+
+14. I included the information to include npm for the academy sections in package.json.
+
+15. I included the seed data and swagger information in server.js to the data can appear on swagger.
