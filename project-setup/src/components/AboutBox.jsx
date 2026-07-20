@@ -1,18 +1,18 @@
 function AboutBox() {
   return (
     <main>
-      <div class="container my-4">
+      <div className="container my-4">
         <article />
-        <div class="about-container container">
+        <div className="about-container container">
           <h2>
             The Academy of Thinkers is a site where people can discuss different
             philosophical topics and engage in critical debates to improve their
             understanding of the world.
           </h2>
 
-          <div class="about-container-2">
+          <div className="about-container-2">
             <form action="/">
-              <button class="go-back-btn" type="return">
+              <button className="go-back-btn" type="return">
                 Go Back
               </button>
             </form>
