@@ -1,5 +1,5 @@
 {
-  "name": "Mini-Project-2",
+  "name": "Mini-Project-3",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {},
@@ -21,6 +21,38 @@
       "id": 3,
       "title": "World Philosophy Forum",
       "content": "World philosophy forum delayed until next week."
+    }
+  ],
+  "philosophers": [
+    {
+      "id": 1,
+      "title": "Platonism",
+      "text": "Universals exist within the place beyond heaven."
+    },
+    {
+      "id": 2,
+      "title": "Aristotelianism",
+      "text": "Universals exist within the earth."
+    },
+    {
+      "id": 3,
+      "title": "Neo-Platonism",
+      "text": "All things emanate from the One."
+    },
+    {
+      "id": 4,
+      "title": "Scholasticism",
+      "text": "The essence of God is existence."
+    },
+    {
+      "id": 5,
+      "title": "Kantianism",
+      "text": "Perception shapes a subjective reality while the truth remains unknowable."
+    },
+    {
+      "id": 6,
+      "title": "Existentialism",
+      "text": "Individuals must create their own purposes in a meaningless world."
     }
   ]
 }
